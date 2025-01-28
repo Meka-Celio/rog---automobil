@@ -3,7 +3,6 @@ let colors = ["#ce092b", "#425a8f", "#ede57c", "#ebebeb"];
 let imgCars = document.querySelectorAll(".catalog li img");
 const voiture = document.querySelector(".cars");
 const circle = document.querySelector(".circle");
-// console.log(voiture.getAttribute("src"));
 
 // FONCTIONS
 /**
